@@ -405,6 +405,8 @@ class CustomSearchableDropDownState extends State<CustomSearchableDropDown>
               child: searchBox(setState),
             ),
 
+
+            //
             (widget.menuMode ?? false)
                 ? SizedBox(
                     height: widget.menuHeight ?? 150,
