@@ -1,9 +1,9 @@
-Custom Searchable Dropdown
+# Custom Searchable Dropdown
 Easily add a powerful and customizable searchable dropdown widget to your Flutter app!
 
 This plugin lets you seamlessly integrate a dropdown menu with built-in search functionality, enhancing the user experience by making it easier to find and select items from a list.
 
-Key Features:
+# Key Features:
 
 Intuitive Search: Effortlessly find specific items in your dropdown list through real-time search as you type.
 Highly Customizable: Tailor the look and feel of your dropdown to match your app's design with various styling options for labels, dropdown items, and even custom suffix icons.
@@ -13,6 +13,7 @@ Simple Integration: Easily incorporate the Custom Searchable Dropdown into your 
 
 Install the Package: Add the following line to your pubspec.yaml file:
 YAML
+
 dependencies:
 custom_searchable_dropdown: ^1.0.0
 Use code with caution.
@@ -22,7 +23,7 @@ Dart
 import 'package:custom_searchable_dropdown/custom_searchable_dropdown.dart';
 Use code with caution.
 
-**Usage Example **
+# **Usage Example **
 
 Here's a quick demonstration of how to use the CustomSearchableDropdown in your app:
 
